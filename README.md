@@ -16,23 +16,22 @@
 #### A little more about me
 ```javascript
 const badri = {
-  pronouns: "He" | "Him",
-  code: ["Java", "Python"],
-  askMeAbout: ["backend dev", "python", "java", "spring boot"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Spring boot", "PostgresSQL"],
-  }
+  frontend: ["React (basic), HTML, CSS, JS"],
+  backend: ["Spring Boot", "PostgreSQL", "MongoDB"],
+  languages: ["Java", "Python"],
+  learning: ["Artificial Intelligence"]
 }
 ```
 
-#### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
- > 
-> 📜 400+ Commits on GitHub
- > 
-> 🔑 200+ Contribution in Private Repos
- > 
+#### My GitHub Journey :rocket:
+
+    🌱 Just getting started on GitHub – building my public portfolio
+
+    🔧 Working on backend projects using Spring Boot and MongoDB
+
+    🤖 Exploring AI and machine learning with Python
+
+    🧠 Learning frontend basics with React
 
 #### Popular Projects
 <a href="https://github.com/MrBlueBird2/to-do-list-flask">
