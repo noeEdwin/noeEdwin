@@ -55,6 +55,6 @@ GitHub & Git             57 mins
 VS Code                  4 Hours         
 
 💻 Operating System:
-Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
+Linux Ubuntu             14 hrs 2 mins    
 ```
 
