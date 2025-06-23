@@ -33,9 +33,9 @@ const stack = {
 
 
 #### Popular Projects
-<a href="https://github.com/noeEdwin/Tic-Tac-Toe">
+<a href="https://github.com/noeEdwin/Tic-Tac-Te">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=noeEDwin&repo=Tic-Tac-Toe&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=noeEDwin&repo=Tc-Tac-Toe&theme=onedark" />
 </a>    
 <a href="https://github.com/noeEdwin/Minesweeper">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
