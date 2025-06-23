@@ -41,6 +41,14 @@ const stack = {
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=noeEdwin&repo=Pagerank&theme=onedark"/>
 </a>
+<a href="https://github.com/noeEdwin/Minesweeper">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=noeEdwin&repo=Minesweeper&theme=onedark"/>
+</a>
+<a href="https://github.com/noeEdwin/Tic-Tac-Toe">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=noeEdwin&repo=Tic-Tac-Toe&theme=onedark"/>
+</a>
 
 
 
